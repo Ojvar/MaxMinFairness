@@ -1,0 +1,21 @@
+-------------------
+TOTAL INFO
+All Nodes count :12,	Switches count :5,	Nodes count :7
+-------------------
+
+-------------------
+DETAILS
+-------------------
+S		Assigned :2048.00	Needed :9358.00	Calculated :2048.00	Maximum :2048.00
+BB		Assigned :2048.00	Needed :9358.00	Calculated :2048.00	Maximum :2048.00
+S1		Assigned :210.00	Needed :210.00	Calculated :210.00	Maximum :1024.00
+S2		Assigned :919.00	Needed :6048.00	Calculated :1024.00	Maximum :1024.00
+S3		Assigned :919.00	Needed :3100.00	Calculated :1024.00	Maximum :1024.00
+A1		Assigned :100.00	Needed :100.00	Calculated :100.00	Maximum :100.00
+A2		Assigned :100.00	Needed :100.00	Calculated :100.00	Maximum :100.00
+A3		Assigned :10.00	Needed :10.00	Calculated :10.00	Maximum :10.00
+B1		Assigned :459.50	Needed :4000.00	Calculated :4000.00	Maximum :4000.00
+B2		Assigned :459.50	Needed :2048.00	Calculated :2048.00	Maximum :2048.00
+C1		Assigned :100.00	Needed :100.00	Calculated :100.00	Maximum :100.00
+C2		Assigned :819.00	Needed :3000.00	Calculated :3000.00	Maximum :3000.00
+-------------------

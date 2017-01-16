@@ -1,0 +1,16 @@
+C:\Users\Ojvar.AEPP-PC\Documents\Visual Studio 2015\Projects\MMFair\MMFair\bin\Debug\MMFair.exe
+C:\Users\Ojvar.AEPP-PC\Documents\Visual Studio 2015\Projects\MMFair\MMFair\bin\Debug\MMFair.pdb
+C:\Users\Ojvar.AEPP-PC\Documents\Visual Studio 2015\Projects\MMFair\MMFair\obj\Debug\MMFair.csprojResolveAssemblyReference.cache
+C:\Users\Ojvar.AEPP-PC\Documents\Visual Studio 2015\Projects\MMFair\MMFair\obj\Debug\MMFair.MainForm.resources
+C:\Users\Ojvar.AEPP-PC\Documents\Visual Studio 2015\Projects\MMFair\MMFair\obj\Debug\MMFair.Properties.Resources.resources
+C:\Users\Ojvar.AEPP-PC\Documents\Visual Studio 2015\Projects\MMFair\MMFair\obj\Debug\MMFair.csproj.GenerateResource.Cache
+C:\Users\Ojvar.AEPP-PC\Documents\Visual Studio 2015\Projects\MMFair\MMFair\obj\Debug\MMFair.exe
+C:\Users\Ojvar.AEPP-PC\Documents\Visual Studio 2015\Projects\MMFair\MMFair\obj\Debug\MMFair.pdb
+D:\Source\Codes\StudentsCodes\C#\MMFair\MMFair\obj\Debug\MMFair.exe
+D:\Source\Codes\StudentsCodes\C#\MMFair\MMFair\obj\Debug\MMFair.pdb
+D:\Source\Codes\StudentsCodes\C#\MMFair\MMFair\bin\Debug\MMFair.exe
+D:\Source\Codes\StudentsCodes\C#\MMFair\MMFair\bin\Debug\MMFair.pdb
+D:\Source\Codes\StudentsCodes\C#\MMFair\MMFair\obj\Debug\MMFair.MainForm.resources
+D:\Source\Codes\StudentsCodes\C#\MMFair\MMFair\obj\Debug\MMFair.Properties.Resources.resources
+D:\Source\Codes\StudentsCodes\C#\MMFair\MMFair\obj\Debug\MMFair.csproj.GenerateResource.Cache
+D:\Source\Codes\StudentsCodes\C#\MMFair\MMFair\obj\Debug\MMFair.csprojResolveAssemblyReference.cache
